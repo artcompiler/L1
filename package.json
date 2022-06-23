@@ -70,7 +70,7 @@
     "enzyme-adapter-react-16": "^1.15.2",
     "flow-bin": "^0.32.0",
     "gts": "^1.1.2",
-    "jsdom": "^15.2.1",
+    "jsdom": "^16.5.0",
     "json-diff": "^0.5.4",
     "mocha": "^6.2.3",
     "nodemon": "^1.19.4",
